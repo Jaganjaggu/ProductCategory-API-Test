@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\models\\dto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\models\\dto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|d:\\asp dotnet\\categoryandproducts\\productcategory\\productcategoryapi\\data\\productcategorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC2F98-7246-4B29-8495-E16FA9D91FF1}|ProductCategoryAPI\\ProductCategoryAPI.csproj|solutionrelative:productcategoryapi\\data\\productcategorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\DTO\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Models\\DTO\\AddProductDto.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\DTO\\AddProductDto.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Models\\DTO\\AddProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:51:18.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Models\\Domain\\Category.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\Domain\\Category.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Models\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:08:22.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:06:50.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:48:21.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:09:51.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:44:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:16:00.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADgv0EAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:36:50.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Program.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Program.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:37:29.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Models\\DTO\\CategoryDto.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Models\\DTO\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:47:39.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Models\\DTO\\ProductDto.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Models\\DTO\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:27:18.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Models\\Domain\\Product.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Models\\Domain\\Product.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Models\\Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:44:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:21:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\appsettings.json",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\appsettings.json",
+              "RelativeToolTip": "ProductCategoryAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T05:23:53.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductCategoryDbContext.cs",
+              "DocumentMoniker": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Data\\ProductCategoryDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCategoryAPI\\Data\\ProductCategoryDbContext.cs",
+              "ToolTip": "D:\\asp dotnet\\CategoryandProducts\\ProductCategory\\ProductCategoryAPI\\Data\\ProductCategoryDbContext.cs",
+              "RelativeToolTip": "ProductCategoryAPI\\Data\\ProductCategoryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:57:03.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
