@@ -7,6 +7,6 @@ namespace ProductCategoryAPI.Repositories
         Task<List<Category>> GetAllCategory();
         Task<Category?> GetCategoryById(Guid id);
         Task<Category> AddCategory(Category category);
-
+        Task<Category?> DeleteCategoryByIdAsync(Guid id);
     }
 }

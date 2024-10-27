@@ -20,6 +20,20 @@ namespace ProductCategoryAPI.Repositories
             return category;
         }
 
+        public async Task<Category?> DeleteCategoryByIdAsync(Guid id)
+        {
+            var exist = await dbContext.Categories.FirstOrDefaultAsync(x => x.CategoryId == id);
+
+            if (exist == null)
+            {
+                return null;
+            }
+            
+            dbContext.Categories.Remove(exist);
+            await dbContext.SaveChangesAsync();
+            return exist;
+        }
+
         public async Task<List<Category>> GetAllCategory()
         {
            return await dbContext.Categories.ToListAsync();

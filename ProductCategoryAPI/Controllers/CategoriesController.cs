@@ -46,13 +46,11 @@ namespace ProductCategoryAPI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Add([FromBody] CategoryDto categoryDto)
+        public async Task<IActionResult> Add([FromBody] AddCategoryDto addCategoryDto)
         {
             //Map DTO to Domain
-            var categoryDomain = mapper.Map<Category>(categoryDto);
+            var categoryDomain = mapper.Map<Category>(addCategoryDto);
             
-            categoryDomain.CategoryId = Guid.NewGuid();
-
             var result = await categoryRepository.AddCategory(categoryDomain);
 
             if(result == null)
@@ -61,10 +59,24 @@ namespace ProductCategoryAPI.Controllers
             }
 
             //Map Domain to DTO
-            var responseDto = mapper.Map<CategoryDto>(result);
-            return CreatedAtAction(nameof(GetById), new { id = responseDto.CategoryId }, responseDto);
+            var responseDto = mapper.Map<AddCategoryDto>(result);
+            return Ok(responseDto);
+            //return CreatedAtAction(nameof(GetById), new { id = responseDto.CategoryId }, responseDto);
         }
 
+        [HttpDelete]
+        [Route("{id:Guid}")]
+        public async Task<IActionResult> DeleteAsync([FromRoute] Guid id)
+        {
+            var response = await categoryRepository.DeleteCategoryByIdAsync(id);
+
+            if (response == null)
+            {
+                return BadRequest("Item not found for deletion");
+            }
+
+            return Ok(mapper.Map<AddCategoryDto>(response));
+        }
 
     }
 }

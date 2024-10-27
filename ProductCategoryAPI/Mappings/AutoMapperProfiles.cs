@@ -10,6 +10,8 @@ namespace ProductCategoryAPI.Mappings
         {
             CreateMap<Category,CategoryDto>().ReverseMap();
 
+            CreateMap<Category,AddCategoryDto>().ReverseMap();
+
             CreateMap<Product, ProductDto>()
             .ForMember(dest => dest.CategoryName, option => option.MapFrom(src => src.Category.CategoryName))
             .ReverseMap();
